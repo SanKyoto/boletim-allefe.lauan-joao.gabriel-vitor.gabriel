@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Állefe Lauan dos Santos Queiroz
 
 def media(n1, n2):
     """Devolve a media aritmetica das duas notas.
