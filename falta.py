@@ -1,4 +1,4 @@
-# Autor: João Gabriel
+# Autor: João Gabriel da Silva Galdino
 
 def falta(m):
     """Devolve quantos pontos faltam para chegar a 60.
